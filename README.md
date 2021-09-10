@@ -1,2 +1,2 @@
 # Robôs automatizados
-projeto open source para fazer  vídeos automatizados na internet 
+projeto de inteligência artificial para fazer  vídeos automatizados na internet 
